@@ -2,7 +2,7 @@ package routes
 
 import (
 	"github.com/gorilla/mux"
-	"github.com/refalah/go-comics/pkg/controllers"
+	"github.com/refalah/CA_2602_service_comic/pkg/controllers"
 )
 
 var RegisterComicRoutes = func(router *mux.Router) {

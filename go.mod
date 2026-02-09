@@ -1,4 +1,4 @@
-module github.com/refalah/go-comics
+module github.com/refalah/CA_2602_service_comic
 
 go 1.25.3
 

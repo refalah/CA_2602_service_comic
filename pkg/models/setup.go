@@ -1,7 +1,7 @@
 package models
 
 import (
-	"github.com/refalah/go-comics/pkg/config"
+	"github.com/refalah/CA_2602_service_comic/pkg/config"
 	"gorm.io/gorm"
 )
 

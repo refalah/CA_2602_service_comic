@@ -6,8 +6,8 @@ import (
 	"strconv"
 
 	"github.com/gorilla/mux"
-	"github.com/refalah/go-comics/pkg/models"
-	"github.com/refalah/go-comics/pkg/utils"
+	"github.com/refalah/CA_2602_service_comic/pkg/models"
+	"github.com/refalah/CA_2602_service_comic/pkg/utils"
 )
 
 func CreateCreatives(w http.ResponseWriter, r *http.Request) {
